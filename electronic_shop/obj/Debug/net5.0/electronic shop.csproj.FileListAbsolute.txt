@@ -1,0 +1,16 @@
+D:\Projects\hackerankvscode\electronic_shop\obj\Debug\net5.0\electronic shop.csprojAssemblyReference.cache
+D:\Projects\hackerankvscode\electronic_shop\obj\Debug\net5.0\electronic shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\hackerankvscode\electronic_shop\obj\Debug\net5.0\electronic shop.AssemblyInfoInputs.cache
+D:\Projects\hackerankvscode\electronic_shop\obj\Debug\net5.0\electronic shop.AssemblyInfo.cs
+D:\Projects\hackerankvscode\electronic_shop\obj\Debug\net5.0\electronic shop.csproj.CoreCompileInputs.cache
+D:\Projects\hackerankvscode\electronic_shop\bin\Debug\net5.0\electronic shop.exe
+D:\Projects\hackerankvscode\electronic_shop\bin\Debug\net5.0\electronic shop.deps.json
+D:\Projects\hackerankvscode\electronic_shop\bin\Debug\net5.0\electronic shop.runtimeconfig.json
+D:\Projects\hackerankvscode\electronic_shop\bin\Debug\net5.0\electronic shop.runtimeconfig.dev.json
+D:\Projects\hackerankvscode\electronic_shop\bin\Debug\net5.0\electronic shop.dll
+D:\Projects\hackerankvscode\electronic_shop\bin\Debug\net5.0\ref\electronic shop.dll
+D:\Projects\hackerankvscode\electronic_shop\bin\Debug\net5.0\electronic shop.pdb
+D:\Projects\hackerankvscode\electronic_shop\obj\Debug\net5.0\electronic shop.dll
+D:\Projects\hackerankvscode\electronic_shop\obj\Debug\net5.0\ref\electronic shop.dll
+D:\Projects\hackerankvscode\electronic_shop\obj\Debug\net5.0\electronic shop.pdb
+D:\Projects\hackerankvscode\electronic_shop\obj\Debug\net5.0\electronic shop.genruntimeconfig.cache
