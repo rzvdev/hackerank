@@ -1,0 +1,16 @@
+D:\Projects\hackerankvscode\catsAndMouse\bin\Debug\net5.0\catsAndMouse.exe
+D:\Projects\hackerankvscode\catsAndMouse\bin\Debug\net5.0\catsAndMouse.deps.json
+D:\Projects\hackerankvscode\catsAndMouse\bin\Debug\net5.0\catsAndMouse.runtimeconfig.json
+D:\Projects\hackerankvscode\catsAndMouse\bin\Debug\net5.0\catsAndMouse.runtimeconfig.dev.json
+D:\Projects\hackerankvscode\catsAndMouse\bin\Debug\net5.0\catsAndMouse.dll
+D:\Projects\hackerankvscode\catsAndMouse\bin\Debug\net5.0\ref\catsAndMouse.dll
+D:\Projects\hackerankvscode\catsAndMouse\bin\Debug\net5.0\catsAndMouse.pdb
+D:\Projects\hackerankvscode\catsAndMouse\obj\Debug\net5.0\catsAndMouse.csprojAssemblyReference.cache
+D:\Projects\hackerankvscode\catsAndMouse\obj\Debug\net5.0\catsAndMouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\hackerankvscode\catsAndMouse\obj\Debug\net5.0\catsAndMouse.AssemblyInfoInputs.cache
+D:\Projects\hackerankvscode\catsAndMouse\obj\Debug\net5.0\catsAndMouse.AssemblyInfo.cs
+D:\Projects\hackerankvscode\catsAndMouse\obj\Debug\net5.0\catsAndMouse.csproj.CoreCompileInputs.cache
+D:\Projects\hackerankvscode\catsAndMouse\obj\Debug\net5.0\catsAndMouse.dll
+D:\Projects\hackerankvscode\catsAndMouse\obj\Debug\net5.0\ref\catsAndMouse.dll
+D:\Projects\hackerankvscode\catsAndMouse\obj\Debug\net5.0\catsAndMouse.pdb
+D:\Projects\hackerankvscode\catsAndMouse\obj\Debug\net5.0\catsAndMouse.genruntimeconfig.cache
